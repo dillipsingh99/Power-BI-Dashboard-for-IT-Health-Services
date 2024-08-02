@@ -1,0 +1,31 @@
+𝗣𝗼𝘄𝗲𝗿 𝗤𝘂𝗲𝗿𝘆
+1. Group tables
+2. Name query steps
+3. Disable load for supporting tables
+4. Avoid table duplication - use reference
+5. Reorder the steps to keep query folding on
+
+𝗗𝗔𝗫
+6. Comment the logic 
+7. Format as per DAX formatter
+8. Use variables for lengthy formulas
+9. Optimize performance using analyzer
+
+𝗥𝗲𝗽𝗼𝗿𝘁 / 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
+10. Add a landing page
+11. Add info icons with tooltips
+12. Abbreviate acronyms in the footer
+13. Use minimal colors / correct visuals
+14. Add refresh date & data source details
+
+𝗨𝘀𝗲𝗿 𝗔𝗱𝗼𝗽𝘁𝗶𝗼𝗻
+15. Embed a user manual in the report
+16. Conduct trainings based on user groups
+17. Organize regroup meetings to clarify doubts
+18. Enable email subscription for decision makers
+
+𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲
+19. Maintain a technical documentation
+20. Keep version copies with release notes
+21. Contingency plan to announce data issues
+
